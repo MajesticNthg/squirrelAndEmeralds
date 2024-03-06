@@ -1,5 +1,5 @@
 public class Main {
-    int squirrel(int N) {
+    public static int squirrel(int N) {
         int factorial = 1;
 
         for (int x = 1; x <= N; x++) {
@@ -11,6 +11,7 @@ public class Main {
 
         return factorial;
     }
+
 }
 
 
