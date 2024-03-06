@@ -10,6 +10,8 @@ public class Main {
             factorial /= 10;
 
         return factorial;
+
+
     }
 
 }
